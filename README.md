@@ -4,7 +4,7 @@
 2. As an API test: Perform the same query and checks as the Web UI test  but use the
    API not the UI.
 
-   Note: Second api test could not be completed. TradeMe sandbox website doesn't have any active used car listings. 
+   Note: Then Second api test could not be completed. TradeMe sandbox website doesn't have any active used car listings and also it's not possible to create a new used car listing due to an error on the website
 ## How to run the test
 
 Clone the repository
