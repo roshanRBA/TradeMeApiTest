@@ -67,7 +67,6 @@
             <scope>test</scope>
         </dependency>
 
-
     </dependencies>
     <build>
         <plugins>
@@ -78,7 +77,7 @@
 
                 <configuration>
                     <includes>
-                        <include>testRunner.TestRunner</include>
+                        <include>steps.TestRunner</include>
                     </includes>
                 </configuration>
             </plugin>

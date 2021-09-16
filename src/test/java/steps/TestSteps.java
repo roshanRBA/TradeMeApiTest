@@ -54,6 +54,7 @@ public class TestSteps {
                         .get(System.getProperty("app.url")+ listingEndpoint + bookListing +".json")
                         .then()
                         .contentType(ContentType.JSON).extract().response();
+
     }
 
     @Then("the status code of the response is {int}")
